@@ -1,0 +1,1 @@
+json.(submission, :id, :name, :phone, :address, :school,:ssn, :income, :credit_score, :amount, :created_at, :updated_at)
